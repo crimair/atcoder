@@ -1,1 +1,7 @@
 __pycache__
+*
+*.*
+!*/
+!Makefile
+!*.cpp
+!*.py
